@@ -7,4 +7,3 @@ Le projet utilise PHPStorm
 
 ## Configuration
 pas de configuration spécifique
-

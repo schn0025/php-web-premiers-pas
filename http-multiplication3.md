@@ -1,0 +1,4 @@
+- l'or de la saisie de l'URL http://localhost:8000/nombre.html le client demande la ressource au serveur qui luit envoi
+- Un fou le formulaire rempli et envoyer, le client envoie les informations au serveur
+- le serveur traite les informations puis crée la table et envois la page produite
+- le serveur ferme la connexion entre chaque communication.

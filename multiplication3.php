@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 $valeur = 42;
 
-if(isset($_GET['n']) && !empty($valeur)) {
+if(isset($_GET['n']) && ctype_digit($_GET['n']) && !empty($valeur)) {
     $valeur = $_GET['n'];
 }
 

@@ -21,7 +21,7 @@ for($col=0; $col <= IDMAX; $col++){
 $ligne1 .= '</tr>' . $table;
 
 
-$titre = 'Table de Pytagore';
+$titre = 'Table de Pythagore';
 echo <<<HTML
 <!doctype html>
 <html lang="fr">
